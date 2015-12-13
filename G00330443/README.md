@@ -5,7 +5,7 @@ Cracking an encrypted text without a having a key to decrypt the text
 
 2) ..
 
-How to run it?
+##How to run it?
 
 1) put cracker.war into  \apache-tomcat-8.0.28\webapps  
 
